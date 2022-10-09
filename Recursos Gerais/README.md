@@ -1,2 +1,2 @@
 # CAD-Designer
-Este repositório vai servir de espaço para colocar os exercícios de todas as lições.
+Aqui vão permanecer os ficheiros gerais para as aulas, folhas tipos e outros recursos
