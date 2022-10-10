@@ -2,26 +2,23 @@
 
 Criação de perspetivas Isométricas a partir de vistas ortogonais. Exercícios do Livro Simões Moraes página 126.
 
-[![Everything Is AWESOME](https://user-images.githubusercontent.com/17902658/194846378-085b89bb-a5a7-423b-95c0-ce7ed26d831f.png)]([https://youtu.be/StTqXEQ2l-Y?t=35s](https://youtu.be/EDH9OYXf6jY) "Aula 1")
+[![Aula1](https://user-images.githubusercontent.com/17902658/194846378-085b89bb-a5a7-423b-95c0-ce7ed26d831f.png)]([https://youtu.be/StTqXEQ2l-Y?t=35s](https://youtu.be/EDH9OYXf6jY) "Aula 1")
 
 # Método simplificado
 
 1. Verificar os exercícios da página que selecionei do livro
-![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/Exercicios_pag_126.png?raw=true "Pagina de exercicios")
-2. Focando no Exercico 1
-   Primeiro focamos numa das vistas disponiveis ou Planta (vista superior) ou Frente (vista anterior).
+![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/Exercicios_pag_126.png?raw=true "Pagina de exercícios")
+2. Focando no Exercício 1
+   Primeiro focamos numa das vistas disponíveis ou Planta (vista superior) ou Frente (vista anterior).
    
    Eu gosto de pegar na vista frontal primeiro!
 ![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/1_1.png?raw=true "1")
 
     Depois temos de desenhar a vista de planta ou topo! e ai podemos fazer de duas formas ou desenha-la na base ou no topo tudo
-    depende de como o vosso cerebro visualiza melhor  eu costumo colocar na base automaticamente mas sugiro usarem no inicio pelo menos
-    no ponto mais alto da vista frontal, desta forma vão ter um desenho menos confuso.
-    
-  ![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/1_1.2.png?raw=true "2")
-  
-É perfeitamente valido fazer como fiz no video, só e mais confuso, desculpem mas o meu cerebro  coloca automaticamente a vista de
-topo no plano mais perto do 0 quando começar-mos no CAD Paramétrico vão perceber porquê.
+    depende de como o vosso cérebro visualiza melhor eu costumo colocar na base automaticamente mas sugiro usarem no inicio pelo menos no ponto mais alto da vista frontal, desta forma vão ter um desenho menos confuso.
+      ![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/1_1.2.png?raw=true "2")
+  É perfeitamente valido fazer como fiz no vídeo, só e mais confuso, desculpem mas o meu cérebro coloca automaticamente a vista de
+topo no plano mais perto do 0 quando começarmos no CAD Paramétrico vão perceber porquê.
 ![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/1_1.2.1.png?raw=true "2.1")
 
 No final estudando as vistas podemos começar a ver no espaço o objecto e compreendelo na sua forma total visiveis e invisiveis.
