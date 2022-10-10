@@ -31,3 +31,10 @@ Depois quando estiverem a desenhar o objecto ai sim podem usar um 1B para se qui
 Proxima Aula fica marcada para Domingo as 9.30 Hora de Lsiboa
 Vou fazer o maximo de exercicios na proxima aula se calhar vamos a outras folhas, se estas cheio de pica
 e ja fizes-te todos podes aproveitar o lanço e fazer outras vistas dos mesmo solidos, é um optimo exercicio para a mente.
+
+PS: para terem de uma ideia do que me parece um exercicio bem executado junto coloco o exercicio que desenhei a mão.
+Espero que gostem!
+
+ ![alt text](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/1/Exercicio_amostra1.png?raw=true "2")
+
+
