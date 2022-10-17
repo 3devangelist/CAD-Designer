@@ -2,8 +2,9 @@
 
 Criação de perspetivas Isométricas a partir de vistas ortogonais. Exercícios do Livro Simões Moraes página 126.
 
-[![Aula1](https://user-images.githubusercontent.com/17902658/194846378-085b89bb-a5a7-423b-95c0-ce7ed26d831f.png)]([https://youtu.be/StTqXEQ2l-Y?t=35s](https://youtu.be/EDH9OYXf6jY) "Aula 1")
 
+[![Aula1](https://user-images.githubusercontent.com/17902658/194846378-085b89bb-a5a7-423b-95c0-ce7ed26d831f.png)](https://youtu.be/EDH9OYXf6jY?t=164
+)
 # Método simplificado
 
 1. Verificar os exercícios da página que selecionei do livro
