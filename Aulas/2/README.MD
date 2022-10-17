@@ -49,8 +49,13 @@ _____________________________
 como na imagem seguinte. Podem dar o nome de "EXERCICIO1"
 ![image](https://user-images.githubusercontent.com/17902658/196100727-06eebdf6-c148-4dab-bfba-9386ea9cadc5.png)
 
+3. Desenhar a vista frontal
+Tendo em conta que:
+3.1. A amarelo é a barra de senho 2D
+3.2. A azul a barra de constrangimentos
+3.3. A barra de opçõpes de desenho 2D
+Sendo o Fusion um programa de 3D Paramétrico CAD-CAE ele para poder alterar parametros o desenho tem que ser defenido do ponto de vista geométrico, ou  seja o programa tem de compreender as regras do modelo exemplo se um quadrado estiver sempre no centro de outro isso tem de ser defenido e também os tamanhos dos objectos, quando um objecto esta completamente defenido esta todo a preto quando contem porções a azul significa que não esta defenido, devem sempre so sair do sketch quando estiver tudo a preto. !IMPORTANTE!
 
-2. Depois criar um SKETCH "1" clicando no icon e Selecionando um plano "2"
+![image](https://user-images.githubusercontent.com/17902658/196103973-39fa39a6-940c-45f0-9b4e-69b70269aafa.png)
 
-![image](https://user-images.githubusercontent.com/17902658/196101229-d4de219d-c0dd-4913-b15c-75a57a660fc0.png)
 
