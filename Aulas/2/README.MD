@@ -3,12 +3,11 @@
 Iniciação ao Fusion 360, Uso dos exercicios do livro Simões moraes da pagina 126 para a utilização do software paramétrico. Fizemos até ao exercicio 9.
 Funções Utilizadas: - sketch; - extrude;
 
-----------------------------
 --------------------------
 
-[![Aula2](https://user-images.githubusercontent.com/17902658/196556621-5b274900-4ff4-4bbf-a2d5-80456d6c3683.png)] (https://www.youtube.com/watch?v=iyjRYjhyIkw)
+[![Aula2](https://user-images.githubusercontent.com/17902658/196556621-5b274900-4ff4-4bbf-a2d5-80456d6c3683.png)](https://www.youtube.com/watch?v=iyjRYjhyIkw)
 
-[![Aula1](https://user-images.githubusercontent.com/17902658/194846378-085b89bb-a5a7-423b-95c0-ce7ed26d831f.png)](https://youtu.be/EDH9OYXf6jY?t=164)
+----------------------------
 
 Fusion 360
 
@@ -63,6 +62,11 @@ como na imagem seguinte. Podem dar o nome de "EXERCICIO1"
   - A barra de opçõpes de desenho 2D
   
 Sendo o Fusion um programa de 3D Paramétrico CAD-CAE ele para poder alterar parametros o desenho tem que ser defenido do ponto de vista geométrico, ou  seja o programa tem de compreender as regras do modelo exemplo se um quadrado estiver sempre no centro de outro isso tem de ser defenido e também os tamanhos dos objectos, quando um objecto esta completamente defenido esta todo a preto quando contem porções a azul significa que não esta defenido, devem sempre so sair do sketch quando estiver tudo a preto. !IMPORTANTE!
+
 ![image](https://user-images.githubusercontent.com/17902658/196103973-39fa39a6-940c-45f0-9b4e-69b70269aafa.png)
+
+Para criar a vista de frente a cima, temos que criar novo rectangulo (1) mas tambem podes pressionar a tecla "r" devemos colocar o primeiro ponto na origem, primeiro desenhas os rectangulos a "olhometro" so depois das as medidas (não tem que ser assim mas faz como te digo o GURU sou eu! mais tarde vais perceber que este é nma generalidade o melhor workflow) com o comando dimention (2) ou pressionas a tecla "d"
+Cada unidade eu estipuilei 10mm por isso e multiplicar 10mm pelo numero de unidades.
+Replica o desenho como na imagem.
 
 
