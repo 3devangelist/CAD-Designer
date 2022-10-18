@@ -69,4 +69,9 @@ Para criar a vista de frente a cima, temos que criar novo rectangulo (1) mas tam
 Cada unidade eu estipuilei 10mm por isso e multiplicar 10mm pelo numero de unidades.
 Replica o desenho como na imagem.
 
+![image](https://user-images.githubusercontent.com/17902658/196561370-2dc7f2b7-a863-42a5-95e3-5309cb0a4c86.png)
+
+Para fazr a vista de topo vamos repetir o processo anterior mas no plano XY, primeiro carrega no botão skecht (1) e depois seleciona o plano XY (2)
+Ao selecionares o plano o fusion por defeito roda para colocar a vista orotgonal, neste caso para visualizar melhor é mais facil rodar a vista com o orbit e fazer a vista em perspectiva tal e qual eu fiz no video.
+
 
