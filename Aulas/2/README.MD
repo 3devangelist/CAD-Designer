@@ -3,7 +3,12 @@
 Iniciação ao Fusion 360, Uso dos exercicios do livro Simões moraes da pagina 126 para a utilização do software paramétrico. Fizemos até ao exercicio 9.
 Funções Utilizadas: - sketch; - extrude;
 
----------------------------
+----------------------------
+--------------------------
+
+[![Aula2](https://user-images.githubusercontent.com/17902658/196556621-5b274900-4ff4-4bbf-a2d5-80456d6c3683.png)] (https://www.youtube.com/watch?v=iyjRYjhyIkw)
+
+[![Aula1](https://user-images.githubusercontent.com/17902658/194846378-085b89bb-a5a7-423b-95c0-ce7ed26d831f.png)](https://youtu.be/EDH9OYXf6jY?t=164)
 
 Fusion 360
 
