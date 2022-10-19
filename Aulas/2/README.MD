@@ -91,7 +91,8 @@ Temos de desenhar a vista de cima para isso começamos pode desenhar o rectangul
  - (8) se quieremos dar algum angulo as paredes da extrusão, muito util para criar saidas para moldes
  - (9) Tipo de operação (19) aditiva - (20) subtractiva - (21) Intersecção - (22) novo solido
  
-![image](https://user-images.githubusercontent.com/17902658/196642936-14f9bd26-77c5-4997-bf94-914bdb01d9fc.png)
+![image](https://user-images.githubusercontent.com/17902658/196649245-f69cb8b3-6f51-4e09-afab-14a25db8e448.png)
+
  - Depos de analizar vamos construir o sólido
   - começamos por selecionar os perimetros (24,25,26) no ponto (2);
   - escolhemos as outras opções como na imagem;
