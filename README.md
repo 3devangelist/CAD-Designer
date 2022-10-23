@@ -14,4 +14,4 @@ O que precisas de ter antes de começar o curso?
 Nota: Não precisas de ter nenhum background de desenho.
 </p>
 
-[Recursos uteis](https://github.com/3devangelist/CAD-Designer/tree/main/Recursos%20Gerais) | [Aula1](https://github.com/3devangelist/CAD-Designer/tree/main/Aulas/1)
+[Recursos uteis](https://github.com/3devangelist/CAD-Designer/tree/main/Recursos%20Gerais) | [Aula1](https://github.com/3devangelist/CAD-Designer/tree/main/Aulas/1) |  [Aula2](https://github.com/3devangelist/CAD-Designer/blob/main/Aulas/2/README.MD)
