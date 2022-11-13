@@ -99,13 +99,14 @@ Temos de desenhar a vista de cima para isso começamos por desenhar o retângulo
   - Escolhemos as outras opções como na imagem;
   - (6) aqui escolhemos o ponto do desenho (23);
  - Desta forma criamos a primeira fase do sólido.
- 7. Temos que selecionar o quadrado grande vista de topo (1) até ao ponto (2), verificar se esta em cut (3)  
+ 7. Agora temos que selecionar o quadrado grande na vista de topo (1) até ao ponto (2), e verificar se esta em cut (3)  
+ 
 ![image](https://user-images.githubusercontent.com/17902658/197073503-7a08dfdd-714c-468e-b98a-b093f531474a.png)
  
- 8.Usar o rectangulo na vista de frente (1) depois começar a extrudir (4) a partir do ponto (2) até ao ponto (6) (3)
+ 8. Vamos usar o rectângulo na vista de frente (1) depois começar a extrudir (4) a partir do ponto (2) até ao ponto (6) (3)
  
  ![image](https://user-images.githubusercontent.com/17902658/197074053-86a6414a-e24e-4ee0-ac79-8605099fadcd.png)
 
-Pronto o primeiro exercicio todos os outros são similares vê o video do youtube se tiveres alguma duvida!
+Pronto o primeiro exercicio está concluido. Todos os outros são similares. Revê o video do youtube se tiveres alguma duvida!
 
 
